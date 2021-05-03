@@ -12,7 +12,7 @@ I'm Lorezi, Software Developer focusing on fullstack JavaScript/Typescript and G
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently concentrated on backend, Go and microservices
+- 🌱 Focus on backend, Go and microservices
 
 
 
