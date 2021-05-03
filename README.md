@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm Lorezi, Software Developer focusing on fullstack JavaScript/Typescript and Golang web applications. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm Lorezi, Software Developer focusing on full stack JavaScript/Typescript and Golang web applications. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br />
 
 
