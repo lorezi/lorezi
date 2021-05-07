@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm Lorezi, Software Developer focusing on full stack JavaScript/Typescript and Golang web applications. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm Lorezi, a full stack developer. I mainly program in JavaScript/Typescript and Go but I've written some PHP, Python and Java and I am a continuous learner. I love clean, well written and well architected code and the Industry best practises like CI/CD integrations and testing <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br />
 
 
@@ -12,7 +12,7 @@ I'm Lorezi, Software Developer focusing on full stack JavaScript/Typescript and 
 
 Here are some ideas to get you started:
 
-- 🌱 Focus on backend, Go and microservices
+- 🌱 Focusing on backend, Go and microservices
 
 
 
