@@ -14,7 +14,7 @@ I love clean, well written and well architected code and the Industry best pract
 
 Here are some ideas to get you started:
 
-- 🌱 Focusing on backend, Go and microservices
+- 🌱 Focusing on backend, Go, cloud native & scalable solutions and microservices
 
 
 
