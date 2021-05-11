@@ -1,6 +1,9 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 # Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IshaanOhri" alt="IshaanOhri" />
+</p>
 
 I'm Lorezi, a full stack developer. I mainly program in JavaScript/Typescript and Go but I've written some PHP, Python and Java and I am a continuous learner. 
 I love clean, well written and well architected code and the Industry best practises like CI/CD integrations and testing.
