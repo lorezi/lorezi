@@ -3,8 +3,8 @@
 # Hi there 👋
 
 
-I'm Lorezi, a full stack developer. I mainly program in JavaScript/Typescript and Go but I've written some PHP, Python and Java and I am a continuous learner. 
-I love clean, well written and well architected code and the Industry best practises like CI/CD integrations and testing.
+I'm Lorezi, a Backend Engineer. I mainly program in JavaScript/Typescript and Go but I've written some PHP, Python and Java and I am a continuous learner. 
+I love clean, well written & architected code and the industry best practises like CI/CD and DevOps.
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br />
 
@@ -13,9 +13,7 @@ I love clean, well written and well architected code and the Industry best pract
 <br />
 
 
-Here are some ideas to get you started:
-
-- 🌱 Focusing on backend, Go, cloud native & scalable solutions and microservices
+- 🌱 Focusing on backend, Go, cloud native, scalable & distributed solutions and microservices
 
 
 
