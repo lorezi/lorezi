@@ -2,8 +2,8 @@
 
 # Hi there 👋
 
-I'm Lorezi, a Backend Engineer. I mainly program in JavaScript/Typescript and Go but I've written some PHP, Python and Java and I am a continuous learner. 
-I love clean, well written & architected solutions and the industry best practices on CI/CD and DevOps. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm Lorezi, a Backend Engineer. I mainly program in JavaScript/Typescript and Golang although I've written some PHP, Python and Java codes. 
+I'm a continuous learner with a deep passion for learning and practicing the industry best practices on DevOps. I love clean, well-written & architected solutions.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br />
 
 
@@ -11,7 +11,7 @@ I love clean, well written & architected solutions and the industry best practic
 <br />
 
 
-- 🌱 Focusing on backend, Go, cloud native, scalable & distributed solutions and microservices
+- 🌱 Focusing on backend, golang, cloud native, scalable & distributed solutions and microservices architecture
 
 
 
