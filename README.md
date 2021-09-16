@@ -2,8 +2,8 @@
 
 # Hi there 👋
 
-I'm Lorezi, a Backend Engineer. I mainly program in JavaScript/Typescript and Golang although I've written some PHP, Python and Java codes. 
-I'm a continuous learner with a deep passion for cloud native architecture and DevOps. I love clean, well-written & architected solutions.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm Lorezi, a Backend Engineer. I mainly program in JavaScript/Typescript and Go although I've written some PHP, Python and Java codes. 
+I'm a continuous learner with a deep passion for cloud native architecture and DevOps. I love clean, well-written & architected solutions.👨🏿‍💻👨🏿‍💻👨🏿‍💻
 <br />
 
 
@@ -11,15 +11,14 @@ I'm a continuous learner with a deep passion for cloud native architecture and D
 <br />
 
 
-- 🌱 Focusing on backend, golang, cloud native, scalable & distributed solutions and microservices architecture
+- 🌱 Focusing on backend, Go (lọ, gaa, tafi), cloud native, scalable & distributed systems and microservices architecture
 
 
 
 <h3>🚀 Some Tools I Use</h3>
 <p align="left">
 <img src="https://cdn.svgporn.com/logos/go.svg" alt="postgresql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
