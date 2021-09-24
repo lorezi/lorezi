@@ -11,7 +11,7 @@ I'm a continuous learner with a deep passion for cloud native architecture and D
 <br />
 
 
-- 🌱 Focusing on backend, Go (lọ, gaa, tafi), cloud native, scalable & distributed systems and microservices architecture
+- 🌱 Focusing on backend, Go (lọ, gaa, tafi), API, cloud native, scalable & distributed systems and microservices architecture, leaving the frontend world to others.
 
 
 
