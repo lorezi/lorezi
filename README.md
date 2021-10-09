@@ -2,8 +2,8 @@
 
 # Hi there 👋
 
-I'm Lorezi, a Backend Engineer. I mainly program in JavaScript/Typescript and Go although I've written some PHP, Python and Java codes. 
-I'm a continuous learner with a deep passion for cloud native architecture and DevOps. I love clean, well-written & architected solutions.👨🏿‍💻👨🏿‍💻👨🏿‍💻
+I'm Lawrence, a Backend Engineer. I mainly program in JavaScript/TypeScript and Go although I've written some PHP, Python and Java codes. 
+I'm a continuous learner with a deep passion for cloud native architecture and DevOps. I love clean, well-written & designed solutions.👨🏿‍💻👨🏿‍💻👨🏿‍💻
 <br />
 
 
