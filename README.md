@@ -2,8 +2,8 @@
 
 # Hi there 👋
 
-I'm Lawrence, a Backend Engineer. I mainly program in JavaScript/TypeScript and Go although I've written some PHP, Python and Java codes. 
-I'm a continuous learner with a deep passion for cloud native architecture and DevOps. I love clean, well-written & designed solutions.👨🏿‍💻👨🏿‍💻👨🏿‍💻
+I'm Lawrence, a Backend Engineer with experience building distributed and serverless applications. I mainly program in JavaScript/TypeScript and Go although I've written some PHP, Python and Java codes. 
+I'm a continuous learner with a deep and unwavering passion for cloud, DevOps, fintech and startups. I love clean, well-written & designed solutions.
 <br />
 
 
@@ -11,7 +11,7 @@ I'm a continuous learner with a deep passion for cloud native architecture and D
 <br />
 
 
-- 🌱 Focusing on backend, Go (lọ, gaa, tafi), API, cloud native, scalable & distributed systems and microservices architecture, leaving the frontend world to others.
+- 🌱 Focusing on backend, Go (lọ, gaa, tafi), API, cloud native, scalable & distributed application and microservices architecture, leaving the frontend world to others.
 
 
 
