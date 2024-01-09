@@ -1,21 +1,39 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-# Hi there 👋
-
-I'm Lawrence, a Backend Engineer with experience building distributed and serverless applications. I mainly program in JavaScript/TypeScript and Go although I've written some PHP, Python and Java codes. 
-I'm a continuous learner with a deep and unwavering passion for Cloud, MLOps, DevOps, Fintech and Startups. I love clean, well-written & designed solutions.
-<br />
-
+👋 I'm Lawrence, a seasoned Backend Engineer specializing in crafting distributed and serverless applications. My programming expertise lies in JavaScript/TypeScript and Go, although I've also delved into the realms of PHP, Python, and Java. I consider myself a perpetual learner, fueled by an unwavering passion for Cloud, MLOps, DevOps, Fintech, and Startups.
 
 
 <br />
 
+My coding philosophy revolves around creating clean, well-written, and meticulously designed solutions. Here's a glimpse into my focus areas:
 
-- 🌱 Focusing on backend, Go (lọ, gaa, tafi), API, cloud native, scalable & distributed application and microservices architecture, leaving the frontend world to others.
+<br />
+
+🚀 Backend Brilliance: Thriving in the backend space, I excel in building robust systems that are scalable, distributed, and cloud-native.
+
+<br />
+
+🎯 Go Enthusiast: Proficient in Go (lọ, gaa, tafi), I leverage its power to develop efficient APIs and contribute to the microservices architecture.
+
+<br />
+
+🌐 Microservices Maven: Specializing in creating architectures for scalable and distributed applications, I navigate the intricacies of microservices with finesse.
+
+<br />
+
+💡 Continuous Growth: As a perpetual learner, I'm committed to staying abreast of the latest trends, ensuring that my skills align with the ever-evolving tech landscape.
+
+<br />
+
+🌱 Focused Frontend: While I thrive in the backend realm, I leave the frontend world to those passionate about crafting user interfaces that captivate and engage.
+
+<br />
+
+Join me on this journey of innovation and excellence as we navigate the exciting intersections of technology and business 🚀
 
 
 
-<h3>🚀 Some Tools I Use</h3>
+<h3>🛠️⚙️Some Tools I Use🗜️⚒️</h3>
 <p align="left">
 <img src="https://cdn.svgporn.com/logos/go.svg" alt="postgresql" width="25" height="25" />
 
