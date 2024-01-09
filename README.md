@@ -25,9 +25,7 @@ My coding philosophy revolves around creating clean, well-written, and meticulou
 
 <br />
 
-🌱 Focused Frontend: While I thrive in the backend realm, I leave the frontend world to those passionate about crafting user interfaces that captivate and engage.
 
-<br />
 
 Join me on this journey of innovation and excellence as we navigate the exciting intersections of technology and business 🚀
 
