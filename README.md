@@ -31,16 +31,22 @@ My coding philosophy revolves around creating clean, well-written, and meticulou
 
 Join me on this journey of innovation and excellence as we navigate the exciting intersections of technology and business 🚀
 
+<br />
 
-
-<h3>🛠️⚙️Some Tools I Use🗜️⚒️</h3>
+<h3>🛠️⚙️ Some Tools I Use 🗜️⚒️</h3>
+<br />
 <p align="left">
+  
 <img src="https://cdn.svgporn.com/logos/go.svg" alt="postgresql" width="25" height="25" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+
 <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="25" height="25" />
+
 <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
